@@ -1,5 +1,5 @@
 # SecretCalculatorPhotoVault
-A python script to decrypt media files encrypted using the Android application 'Secret Calculator Photo Vault'. Supports brute force of PIN also.
+A python script to decrypt media files encrypted using the Android application 'Secret Calculator Photo Vault' (https://play.google.com/store/apps/details?id=com.photovault.secret.calculator&hl=en_GB&gl=US). Supports brute force of PIN also.
 Original Blog Post: https://theincidentalchewtoy.wordpress.com/2022/01/27/decrypting-secret-calculator-photo-vault/
 
 ‘Secret Calculator Photo Vault: Hide Keep Safe Lock’ uses ‘Military Grade Encryption AES-256 bit‘ to keep files safe within the application. The developers also make the following statement: ‘Secret Calculator’s architecture was developed with the help of data security consultants experts to make sure that nobody, including our team, will be able to access your private photo locker without knowing your pass phrase, even if your device is stolen!'
